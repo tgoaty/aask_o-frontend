@@ -1,8 +1,8 @@
+import Routing from "../pages";
+
 const App = () => {
     return (
-        <div>
-
-        </div>
+        <Routing/>
     );
 };
 
